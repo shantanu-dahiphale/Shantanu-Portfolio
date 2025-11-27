@@ -1,0 +1,5 @@
+# Ignore OS metadata files that trigger Live Server reloads
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+.DS_Store
