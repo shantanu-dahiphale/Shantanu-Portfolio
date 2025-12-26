@@ -567,7 +567,7 @@ main {
 }
 
 .about-text p {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 
 
@@ -577,7 +577,7 @@ main {
  */
 
 .service {
-  margin-bottom: 35px;
+  margin-bottom: 50px;
 }
 
 .service-title {
@@ -614,6 +614,39 @@ main {
 
 .service-icon-box img {
   margin: auto;
+}
+
+.service-item-icon {
+  background: var(--border-gradient-onyx);
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: var(--orange-yellow-crayola);
+  box-shadow: var(--shadow-1);
+  z-index: 1;
+  position: relative;
+  margin: 0 auto 10px;
+  /* Centered on mobile */
+}
+
+.service-item-icon::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  background: var(--eerie-black-1);
+  border-radius: inherit;
+  z-index: -1;
+}
+
+@media (min-width: 768px) {
+  .service-item-icon {
+    margin: 5px 0 0 0;
+    /* Reset for desktop flex layout */
+  }
 }
 
 .service-content-box {
