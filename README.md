@@ -1,48 +1,44 @@
-# Data Analyst Portfolio
+# Shantanu Dahiphale — <br> Data Analytics & Engineering Portfolio
 
-A clean, responsive portfolio website for showcasing data analysis work, projects, and experience. The site uses a dark theme with a modern UI and simple navigation.
+A high-performance, recruiter-optimized portfolio website designed to showcase expertise in Data Analytics, Business Intelligence, and Data Engineering. 
 
-## Overview
+Built with a focus on speed, readability, and immediate impact, this site serves as the central hub for my professional identity, technical case studies, and resume.
 
-- Highlights recent projects with concise summaries and tools used.
-- Includes sections for About, Resume, Portfolio, Blog, and Contact.
-- Lightweight stack (HTML, CSS, JavaScript) for easy customization and hosting.
+## 🚀 Key Features
 
-## Structure
+*   **Recruiter-First Design**: The "About Me" section is engineered for a "6-second scan," highlighting core roles, experience, and ROI metrics immediately.
+*   **Impact-Focused**: Project cards and experience sections emphasize *outcomes* (e.g., "40% reporting time reduction") over just output.
+*   **Domain Segregation**: clearly separates skills into "Analytics," "Business Intelligence," and "Data Engineering" to target multiple role types.
+*   **Responsive UI**: Fully fluid layout that adapts from desktop grids to mobile stacks, ensuring a premium experience on any device.
+*   **Premium Aesthetics**: Uses custom CSS branding (glassmorphism, gradients) and context-aware nomenclature icons to create a polished visual hierarchy.
 
-- `index.html` — main markup and content
-- `assets/css/style.css` — theme and layout styles
-- `assets/js/script.js` — navigation, filters, and small UI behaviors
-- `assets/images/` — project images and icons
+## 🛠️ Tech Stack
 
-## Projects
+*   **Frontend**: HTML5, Semantic Markup
+*   **Styling**: CSS3 (Custom Properties/Variables, CSS Grid, Flexbox)
+*   **Icons**: Ionicons (for high-quality vector assets)
+*   **Interactivity**: Vanilla JavaScript (Tabs, Filtering, Sidebar toggle)
+*   **Deployment**: GitHub Pages (Static Hosting)
 
-Each project card is designed to communicate quickly:
-- Title — clear and descriptive
-- Summary — 2–3 lines on objective and outcome
-- Tools — e.g., SQL, Python, Power BI, scikit‑learn
-- Links (optional) — GitHub repo, live dashboard, or write‑up
+## 📂 Project Structure
 
-Edit the sample cards in the “Projects” section of `index.html` and replace with your own details and links.
+*   `index.html`: The single-page application structure containing all content sections (About, Resume, Portfolio, Contact).
+*   `assets/css/style.css`: Comprehensive stylesheet handling the dark theme, responsive grids, and custom component designs.
+*   `assets/js/script.js`: Lightweight logic for navigation tabs and portfolio category filtering.
+*   `assets/images/`: Optimized assets for project thumbnails and profile media.
 
-## Getting Started
+## 🎯 Content Sections
 
-- Open `index.html` in a browser, or serve locally for better routing and assets:
-  - Python: `python -m http.server 5500` → http://localhost:5500
-  - VS Code: Live Server extension
+1.  **Overview**: A "Hybrid Threat" positioning statement (Data Analyst + Engineer) with key ROI stats.
+2.  **Domain Expertise**: categorizes skills into Analytics, BI, Data Engineering, and Cloud/Tools.
+3.  **Work Style**: Communicates soft skills like execution, governance, and documentation.
+4.  **Portfolio**: Filterable gallery of case studies (e.g., Cancer Survival Prediction, HR Dashboards) linking to GitHub/Live demos.
+5.  **Resume**: Web-based timeline of education and experience + link to PDF download.
 
-## Customize
+## 🔗 Live Site
 
-- Content: Update text in `index.html` for About, Resume, Projects, Portfolio, Blog, and Contact.
-- Images: Replace assets in `assets/images/` and update paths in HTML.
-- Styles: Tweak colors, spacing, and typography in `assets/css/style.css`.
-- Icons: Use `<ion-icon>` elements already present in the HTML if desired.
+[View the Portfolio](https://wckd111.github.io/Shantanu-Portfolio/)
 
-## Deployment
+## 📄 License
 
-- GitHub Pages: push to the default branch, then enable Pages (root `/`).
-- Netlify/Vercel: connect the repository or drag‑and‑drop the folder.
-
-## License
-
-MIT
+MIT License. Feel free to use this template for your own portfolio!
