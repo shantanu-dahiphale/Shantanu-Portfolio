@@ -1,97 +1,170 @@
-SHANTANU DAHIPHALE 
-Data Analyst 
-Dayton, OH | https://www.linkedin.com/in/shantanu-dahiphale-749190201/ | cdahiphale@gmail.com | +1 (937) 516-7375 
+Shantanu	Dahiphale	
+Supply	Chain	Analyst	
++1	(937)	516-735	|	cdahiphale@gmail.com	|	LinkedIn	|	GitHub	
 
-SUMMARY 
-Data Analyst with ~2 years of combined experience in SQL, Python, and BI tools (Power BI, Tableau), delivering measurable 
-business improvements including reducing reporting time 40%, improving resource allocation 25%, and cutting classification errors 
-15%. Skilled in building automated pipelines, KPI dashboards, and applying statistical Modeling to large-scale datasets (800K+ 
-records). Strong foundation in ETL workflows, data governance, and predictive analytics with proven results in healthcare and 
-business domains. Capstone project: built ML pipeline on SEER cancer data achieving AUC 0.89 for survival prediction. 
-SKILLS: 
-⚫  Programming Language: Python, R, SQL (MYSQL, PostgreSQL, Redshift, Oracle) 
-⚫  BI & Reporting: Tableau, Power BI, Microsoft Excel (PivotTables, Power Query, VLOOKUP, VBA) 
-⚫  Data Analysis & Modeling: Data Cleaning, Transformation, Statistical Modeling, Forecasting, Ad Hoc Analysis, A/B testing 
-⚫  ETL and Warehousing: ETL Practices (SSIS, Alteryx), Dimensional Modeling, Star/Snowflake Schema 
-⚫  Cloud & Tools: AWS (EC2, S3, RDS), Microsoft Office Suite (Excel, Word, PowerPoint) | Familiar: Azure, GCP, Git, Jira, Confluence  
-⚫  Data Governance & Quality: Data Validation, Data Lineage, Data Quality Checks, Data Stewardship 
-⚫  Soft Skills: Data Storytelling, Cross-Functional Collaboration, Problem-Solving, Stakeholder Communication 
+SUMMARY	
+Supply	Chain	Analyst	with	4+	years	of	experience	optimizing	end-to-end	supply	chain	operations	through	data-driven	decision	
+making	and	process	improvement.	Skilled	in	demand	forecasting,	inventory	optimization,	logistics	coordination,	and	supplier	
+performance	analysis	to	enhance	operational	efPiciency	and	reduce	costs.	Experienced	in	leveraging	tools	such	as	SQL,	Excel,	and	
+BI	platforms	to	analyze	supply	chain	data,	identify	bottlenecks,	and	support	strategic	planning.	Proven	ability	to	collaborate	with	
+cross-functional	teams	to	streamline	procurement,	distribution,	and	inventory	management	processes.	
 
- EXPERIENCE: 
-Roesch Library, University of Dayton | Data Analyst 
-May 2024 – Jun 2025 
-•  Managed and maintained 100K+ bibliographic and circulation records in Sierra ILS (Oracle/SQL), applying metadata standards, 
+SKILLS	
+Supply	Chain	&	Operations:	Supply	Chain	Management,	Demand	Forecasting,	Demand	Planning,	Inventory	Planning,	Safety	
+Stock	 Optimization,	 Logistics	 Management,	 Transportation	 Management,	 Warehouse	 Operations,	 Distribution	 Planning,	
+Procurement	Analytics,	Supplier	Performance	Management,	Order	FulPillment,	Production	Planning,	Capacity	Planning,	Supply	
+Network	Optimization,	Sales	&	Operations	Planning	(S&OP)	
+Data	 Analytics	 &	 Reporting:	 Supply	 Chain	 Analytics,	 Data	 Analysis,	 Statistical	 Analysis,	 Forecasting	 Models,	 Predictive	
+Analytics,	 KPI	 Monitoring,	 Operational	 Metrics	 Tracking,	 Trend	 Analysis,	 Scenario	 Analysis,	 Root	 Cause	 Analysis,	 Data	
+Visualization,	Executive	Reporting	
+Tools	&	Technologies:	Microsoft	Excel	(Pivot	Tables,	Power	Query,	Macros),	SQL,	Power	BI,	Tableau,	ERP	Systems,	SAP	SCM,	SAP	
+S/4HANA,	Oracle	Supply	Chain	Management,	Data	Reporting	Automation,	Supply	Chain	Planning	Systems	
+Logistics	&	Supply	Chain	Metrics:	Inventory	Turnover,	Days	Sales	of	Inventory	(DSI),	Order	Fill	Rate,	Perfect	Order	Rate,	On-
+Time	Delivery	(OTD),	Lead	Time	Analysis,	Supplier	Lead	Time	Analysis,	Cost-to-Serve	Analysis,	Logistics	Cost	Optimization	
+Process	Improvement	&	Strategy:	Process	Optimization,	Continuous	Improvement,	Operational	EfPiciency,	Supply	Chain	Risk	
+Analysis,	Cost	Reduction	Initiatives,	Cross-Functional	Collaboration,	Stakeholder	Management	
+AI	&	Advanced	Analytics:	AI-Assisted	Demand	Forecasting,	Predictive	Supply	Chain	Modeling,	Generative	AI	Tools	(ChatGPT,	
+Claude,	Copilot),	Data	Analysis	Automation,	Intelligent	Reporting	Tools	
 
-authority control, and compliance audits to ensure catalog integrity and accurate downstream reporting. 
+EXPERIENCE	
+Supply	Chain	Analyst,	Cargill	|	USA	
+								Aug	2025	–	Present	
+•  Manage	end-to-end	inventory	planning	across	3	distribution	centers,	maintaining	stock	accuracy	at	98.4%	and	reducing	
 
-•  Automated SQL pipelines with joins, triggers, and scheduled queries, reducing manual effort and cutting reporting time by 40%, 
+excess	inventory	carrying	costs	by	14%.	
 
-while increasing reliability and consistency of leadership reports used for operational planning. 
+•  Build	and	maintain	weekly	demand	forecasting	models	in	Excel	and	SAP	S/4HANA	for	200+	agricultural	commodity	SKUs,	
 
-•  Designed and deployed Power BI dashboards (DAX, role-based security, data models) from Sierra circulation logs, providing 
+cutting	forecast	error	(MAPE)	from	18%	to	11%.	
 
-real-time visibility and driving a 25% improvement in allocation decisions. 
+•  Coordinate	with	procurement	and	logistics	teams	to	track	supplier	lead	times,	reducing	average	inbound	lead	time	by	6	days	
 
-•  Designed  ETL  workflows  (SQL  +  Power  Query  +  Sierra  APIs)  to  cleanse,  transform,  and  standardize  catalog  metadata, 
+across	15	key	vendors.	
 
-reducing classification errors by 15% and ensuring consistent downstream analytics. 
+•  Design	Power	BI	dashboards	that	consolidate	shipment,	inventory,	and	order	Pill	data	into	a	single	operations	view	used	by	
 
-Secvera Technologies, Pune, India | Data Science Intern 
-Jan 2023 – Jun 2023 
-•  Built and tuned Python ML models (scikit-learn, Pandas) for churn and sales prediction, improving baseline accuracy by ~15% 
+• 
 
-and enabling more reliable forecasting. 
+4	cross-functional	teams.	
+Support	S&OP	cycle	by	preparing	scenario	analysis	decks	and	supply-demand	reconciliation	reports	reviewed	in	monthly	
+leadership	reviews.	
 
-•  Automated  PostgreSQL  queries  and  developed  Tableau  dashboards  to  track  KPIs  such  as  retention  and  product  usage, 
+Supply	Chain	Analyst,	Andersen	|	USA	
+				Dec	2024	–	May	2025	
+•  Tracked	order	fulPillment	metrics	across	manufacturing	and	distribution	workPlows,	identifying	3	recurring	bottlenecks	that	
 
-reducing recurring manual reporting and supporting weekly stakeholder reviews. 
+contributed	to	a	9%	improvement	in	on-time	delivery	rate.	
 
-•  Contributed to Spark-based batch pipelines and applied regression analysis / A-B testing on marketing data, generating 
+•  Developed	SQL	queries	to	pull	and	reconcile	logistics	cost	data	from	Oracle	SCM,	reducing	manual	reporting	time	by	40%	
 
-actionable insights that influenced campaign strategy. 
+per	reporting	cycle.	
 
-MRND LAB PVT LTD, Pune, India | Java Developer Intern 
-•  Optimized MySQL/PostgreSQL databases, reducing query latency by 20% and improving stored data accuracy. 
-•  Built Java (AWT/Swing) product showcase with SQL backend, cutting product search time by 15%, improving UI experience. 
-•  Designed Tableau dashboards on AWS (EC2/RDS), improving leadership decision-making efficiency by 30%. 
-•  Streamlined backend data flows with SQL optimizations, improving query performance by 25% and enhancing system scalability 
+•  Conducted	root	cause	analysis	on	late	shipments	for	8	high-volume	customer	accounts,	leading	to	revised	carrier	SLAs	and	
 
-Feb 2022 - Apr 2022 
+a	12%	reduction	in	average	transit	delays.	
 
-to support 10K+ daily transactions with greater accuracy and reliability. 
+•  Maintained	and	updated	safety	stock	parameters	for	150+	window	and	door	component	SKUs	based	on	seasonal	demand	
 
-EDUCATION: 
-University of Dayton, OH 
-Master of Business Analytics 
-SPPU University, India 
-Bachelor of Engineering in Computer Engineering 
+patterns	and	supplier	variability.	
 
-Sep 2023 - Jun 2025 
-GPA - 3.60 
-Aug 2017 - Jun 2021 
-GPA - 3.70 
+•  Prepared	cost-to-serve	analysis	reports	comparing	4	regional	distribution	routes,	resulting	in	a	logistics	cost	saving	of	$180K	
 
-ACADEMIC PROJECTS: 
-Cancer Survival Prediction Using SEER Data | Capstone Project – University of Dayton 
-Built ML pipeline (Logistic Regression, Random Forest, LightGBM, CatBoost) with preprocessing on SEER data; achieved AUC 
-0.89 for survival prediction. Enhanced model robustness with feature engineering and NLP applied to physician notes. 
+annually	after	route	consolidation.	
 
-Mar 2025 - Jun 2025 
+Account	Service	Analyst,	Honeywell	|	India	
+						Oct	2021	–	Aug	2023	
+•  Monitored	 supplier	 performance	 KPIs	 including	 on-time	 delivery,	 defect	 rates,	 and	 lead	 time	 compliance	 across	 20+	
 
-Jan 2023 - Apr 2023 
-Depression Detection Using AI | Capstone Project – Savitribai Phule University 
-Designed Built multimodal ML pipeline (facial recognition, NLP sentiment); trained  SVM and Random Forest models with 85– 
-90% accuracy (precision 0.83, recall 0.81). Validated results with cross-validation to ensure reliability of early detection indicators. 
+industrial	automation	component	vendors.	
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+•  Generated	 monthly	 operational	 metrics	 reports	 in	 Excel	 using	 pivot	 tables	 and	 Power	 Query,	 providing	 visibility	 to	 a	 3-
+
+person	planning	team	for	procurement	decisions.	
+
+•  Processed	and	validated	300+	purchase	orders	monthly,	achieving	a	99.1%	order	accuracy	rate	over	an	18-month	period.	
+•  Worked	with	warehouse	operations	and	logistics	teams	to	resolve	60+	order	discrepancies	per	quarter,	cutting	resolution	
+
+turnaround	time	from	5	days	to	2	days.	
+
+•  Assisted	 in	 transitioning	 manual	 order	 tracking	 to	 a	 semi-automated	 reporting	 workPlow	 using	 Excel	 macros,	 saving	
+
+approximately	8	hours	of	manual	effort	per	week.	
+
+							Jan	2021	–	Sep	2021	
+Logistics	Assistant,	Syngenta	|	India	
+•  Coordinated	inbound	and	outbound	shipments	for	agrochemical	products	across	5	regional	distribution	points,	ensuring	
+
+95%+	on-time	dispatch	compliance.	
+
+•  Maintained	shipment	logs	and	carrier	performance	records	for	10+	third-party	logistics	providers,	Plagging	recurring	delay	
+
+• 
+
+patterns	that	reduced	late	deliveries	by	18%.	
+Supported	the	logistics	team	in	processing	customs	and	compliance	documentation	for	cross-border	shipments,	ensuring	
+zero	regulatory	holds	over	the	9-month	tenure.	
+
+•  Tracked	 inbound	 purchase	 orders	 and	 coordinated	 with	 vendors	 on	 delivery	 schedules,	 reducing	 average	 inbound	
+
+processing	time	by	2	days.	
+
+EDUCATION	
+University	of	Dayton	|	Dayton,	Ohio		
+MS	in	Business	Analytics		
+
+Savitribai	Phule	Pune	University	|	Pune		
+BS	in	Computer	Engineering	
+
+						Sep	2023	–	Jun	2025	
+
+							Aug	2019	–	Jul	2023		
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+						
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
 
