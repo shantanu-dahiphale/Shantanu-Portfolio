@@ -1,170 +1,170 @@
-Shantanu	Dahiphale	
-Supply	Chain	Analyst	
-+1	(937)	516-735	|	cdahiphale@gmail.com	|	LinkedIn	|	GitHub	
+Shantanu Dahiphale 
+Supply Chain Analyst 
++1 (937) 516-7375 | cdahiphale@gmail.com | LinkedIn | GitHub 
 
-SUMMARY	
-Supply	Chain	Analyst	with	4+	years	of	experience	optimizing	end-to-end	supply	chain	operations	through	data-driven	decision	
-making	and	process	improvement.	Skilled	in	demand	forecasting,	inventory	optimization,	logistics	coordination,	and	supplier	
-performance	analysis	to	enhance	operational	efPiciency	and	reduce	costs.	Experienced	in	leveraging	tools	such	as	SQL,	Excel,	and	
-BI	platforms	to	analyze	supply	chain	data,	identify	bottlenecks,	and	support	strategic	planning.	Proven	ability	to	collaborate	with	
-cross-functional	teams	to	streamline	procurement,	distribution,	and	inventory	management	processes.	
+SUMMARY 
+Supply Chain Analyst with 4+ years of experience optimizing end-to-end supply chain operations through data-driven decision 
+making and process improvement. Skilled in demand forecasting, inventory optimization, logistics coordination, and supplier 
+performance analysis to enhance operational efficiency and reduce costs. Experienced in leveraging tools such as SQL, Excel, and 
+BI platforms to analyze supply chain data, identify bottlenecks, and support strategic planning. Proven ability to collaborate with 
+cross-functional teams to streamline procurement, distribution, and inventory management processes. 
 
-SKILLS	
-Supply	Chain	&	Operations:	Supply	Chain	Management,	Demand	Forecasting,	Demand	Planning,	Inventory	Planning,	Safety	
-Stock	 Optimization,	 Logistics	 Management,	 Transportation	 Management,	 Warehouse	 Operations,	 Distribution	 Planning,	
-Procurement	Analytics,	Supplier	Performance	Management,	Order	FulPillment,	Production	Planning,	Capacity	Planning,	Supply	
-Network	Optimization,	Sales	&	Operations	Planning	(S&OP)	
-Data	 Analytics	 &	 Reporting:	 Supply	 Chain	 Analytics,	 Data	 Analysis,	 Statistical	 Analysis,	 Forecasting	 Models,	 Predictive	
-Analytics,	 KPI	 Monitoring,	 Operational	 Metrics	 Tracking,	 Trend	 Analysis,	 Scenario	 Analysis,	 Root	 Cause	 Analysis,	 Data	
-Visualization,	Executive	Reporting	
-Tools	&	Technologies:	Microsoft	Excel	(Pivot	Tables,	Power	Query,	Macros),	SQL,	Power	BI,	Tableau,	ERP	Systems,	SAP	SCM,	SAP	
-S/4HANA,	Oracle	Supply	Chain	Management,	Data	Reporting	Automation,	Supply	Chain	Planning	Systems	
-Logistics	&	Supply	Chain	Metrics:	Inventory	Turnover,	Days	Sales	of	Inventory	(DSI),	Order	Fill	Rate,	Perfect	Order	Rate,	On-
-Time	Delivery	(OTD),	Lead	Time	Analysis,	Supplier	Lead	Time	Analysis,	Cost-to-Serve	Analysis,	Logistics	Cost	Optimization	
-Process	Improvement	&	Strategy:	Process	Optimization,	Continuous	Improvement,	Operational	EfPiciency,	Supply	Chain	Risk	
-Analysis,	Cost	Reduction	Initiatives,	Cross-Functional	Collaboration,	Stakeholder	Management	
-AI	&	Advanced	Analytics:	AI-Assisted	Demand	Forecasting,	Predictive	Supply	Chain	Modeling,	Generative	AI	Tools	(ChatGPT,	
-Claude,	Copilot),	Data	Analysis	Automation,	Intelligent	Reporting	Tools	
+SKILLS 
+Supply Chain & Operations: Supply Chain Management, Demand Forecasting, Demand Planning, Inventory Planning, Safety 
+Stock  Optimization,  Logistics  Management,  Transportation  Management,  Warehouse  Operations,  Distribution  Planning, 
+Procurement Analytics, Supplier Performance Management, Order Fulfillment, Production Planning, Capacity Planning, Supply 
+Network Optimization, Sales & Operations Planning (S&OP) 
+Data  Analytics  &  Reporting:  Supply  Chain  Analytics,  Data  Analysis,  Statistical  Analysis,  Forecasting  Models,  Predictive 
+Analytics,  KPI  Monitoring,  Operational  Metrics  Tracking,  Trend  Analysis,  Scenario  Analysis,  Root  Cause  Analysis,  Data 
+Visualization, Executive Reporting 
+Tools & Technologies: Microsoft Excel (Pivot Tables, Power Query, Macros), SQL, Power BI, Tableau, ERP Systems, SAP SCM, SAP 
+S/4HANA, Oracle Supply Chain Management, Data Reporting Automation, Supply Chain Planning Systems 
+Logistics & Supply Chain Metrics: Inventory Turnover, Days Sales of Inventory (DSI), Order Fill Rate, Perfect Order Rate, On-
+Time Delivery (OTD), Lead Time Analysis, Supplier Lead Time Analysis, Cost-to-Serve Analysis, Logistics Cost Optimization 
+Process Improvement & Strategy: Process Optimization, Continuous Improvement, Operational Efficiency, Supply Chain Risk 
+Analysis, Cost Reduction Initiatives, Cross-Functional Collaboration, Stakeholder Management 
+AI & Advanced Analytics: AI-Assisted Demand Forecasting, Predictive Supply Chain Modeling, Generative AI Tools (ChatGPT, 
+Claude, Copilot), Data Analysis Automation, Intelligent Reporting Tools 
 
-EXPERIENCE	
-Supply	Chain	Analyst,	Cargill	|	USA	
-								Aug	2025	–	Present	
-•  Manage	end-to-end	inventory	planning	across	3	distribution	centers,	maintaining	stock	accuracy	at	98.4%	and	reducing	
+EXPERIENCE 
+Supply Chain Analyst, Cargill | USA 
+        Aug 2025 – Present 
+•  Manage end-to-end  inventory  planning  across  3  distribution  centers,  maintaining  stock  accuracy  at  98.4% and  reducing 
 
-excess	inventory	carrying	costs	by	14%.	
+excess inventory carrying costs by 14%. 
 
-•  Build	and	maintain	weekly	demand	forecasting	models	in	Excel	and	SAP	S/4HANA	for	200+	agricultural	commodity	SKUs,	
+•  Build and maintain weekly demand forecasting models in Excel and SAP S/4HANA for 200+ agricultural commodity SKUs, 
 
-cutting	forecast	error	(MAPE)	from	18%	to	11%.	
+cutting forecast error (MAPE) from 18% to 11%. 
 
-•  Coordinate	with	procurement	and	logistics	teams	to	track	supplier	lead	times,	reducing	average	inbound	lead	time	by	6	days	
+•  Coordinate with procurement and logistics teams to track supplier lead times, reducing average inbound lead time by 6 days 
 
-across	15	key	vendors.	
+across 15 key vendors. 
 
-•  Design	Power	BI	dashboards	that	consolidate	shipment,	inventory,	and	order	Pill	data	into	a	single	operations	view	used	by	
-
-• 
-
-4	cross-functional	teams.	
-Support	S&OP	cycle	by	preparing	scenario	analysis	decks	and	supply-demand	reconciliation	reports	reviewed	in	monthly	
-leadership	reviews.	
-
-Supply	Chain	Analyst,	Andersen	|	USA	
-				Dec	2024	–	May	2025	
-•  Tracked	order	fulPillment	metrics	across	manufacturing	and	distribution	workPlows,	identifying	3	recurring	bottlenecks	that	
-
-contributed	to	a	9%	improvement	in	on-time	delivery	rate.	
-
-•  Developed	SQL	queries	to	pull	and	reconcile	logistics	cost	data	from	Oracle	SCM,	reducing	manual	reporting	time	by	40%	
-
-per	reporting	cycle.	
-
-•  Conducted	root	cause	analysis	on	late	shipments	for	8	high-volume	customer	accounts,	leading	to	revised	carrier	SLAs	and	
-
-a	12%	reduction	in	average	transit	delays.	
-
-•  Maintained	and	updated	safety	stock	parameters	for	150+	window	and	door	component	SKUs	based	on	seasonal	demand	
-
-patterns	and	supplier	variability.	
-
-•  Prepared	cost-to-serve	analysis	reports	comparing	4	regional	distribution	routes,	resulting	in	a	logistics	cost	saving	of	$180K	
-
-annually	after	route	consolidation.	
-
-Account	Service	Analyst,	Honeywell	|	India	
-						Oct	2021	–	Aug	2023	
-•  Monitored	 supplier	 performance	 KPIs	 including	 on-time	 delivery,	 defect	 rates,	 and	 lead	 time	 compliance	 across	 20+	
-
-industrial	automation	component	vendors.	
-
-•  Generated	 monthly	 operational	 metrics	 reports	 in	 Excel	 using	 pivot	 tables	 and	 Power	 Query,	 providing	 visibility	 to	 a	 3-
-
-person	planning	team	for	procurement	decisions.	
-
-•  Processed	and	validated	300+	purchase	orders	monthly,	achieving	a	99.1%	order	accuracy	rate	over	an	18-month	period.	
-•  Worked	with	warehouse	operations	and	logistics	teams	to	resolve	60+	order	discrepancies	per	quarter,	cutting	resolution	
-
-turnaround	time	from	5	days	to	2	days.	
-
-•  Assisted	 in	 transitioning	 manual	 order	 tracking	 to	 a	 semi-automated	 reporting	 workPlow	 using	 Excel	 macros,	 saving	
-
-approximately	8	hours	of	manual	effort	per	week.	
-
-							Jan	2021	–	Sep	2021	
-Logistics	Assistant,	Syngenta	|	India	
-•  Coordinated	inbound	and	outbound	shipments	for	agrochemical	products	across	5	regional	distribution	points,	ensuring	
-
-95%+	on-time	dispatch	compliance.	
-
-•  Maintained	shipment	logs	and	carrier	performance	records	for	10+	third-party	logistics	providers,	Plagging	recurring	delay	
+•  Design Power BI dashboards that consolidate shipment, inventory, and order fill data into a single operations view used by 
 
 • 
 
-patterns	that	reduced	late	deliveries	by	18%.	
-Supported	the	logistics	team	in	processing	customs	and	compliance	documentation	for	cross-border	shipments,	ensuring	
-zero	regulatory	holds	over	the	9-month	tenure.	
+4 cross-functional teams. 
+Support S&OP cycle by preparing scenario analysis decks and supply-demand reconciliation reports reviewed in monthly 
+leadership reviews. 
 
-•  Tracked	 inbound	 purchase	 orders	 and	 coordinated	 with	 vendors	 on	 delivery	 schedules,	 reducing	 average	 inbound	
+Supply Chain Analyst, Andersen | USA 
+    Dec 2024 – May 2025 
+•  Tracked order fulfillment metrics across manufacturing and distribution workflows, identifying 3 recurring bottlenecks that 
 
-processing	time	by	2	days.	
+contributed to a 9% improvement in on-time delivery rate. 
 
-EDUCATION	
-University	of	Dayton	|	Dayton,	Ohio		
-MS	in	Business	Analytics		
+•  Developed SQL queries to pull and reconcile logistics cost data from Oracle SCM, reducing manual reporting time by 40% 
 
-Savitribai	Phule	Pune	University	|	Pune		
-BS	in	Computer	Engineering	
+per reporting cycle. 
 
-						Sep	2023	–	Jun	2025	
+•  Conducted root cause analysis on late shipments for 8 high-volume customer accounts, leading to revised carrier SLAs and 
 
-							Aug	2019	–	Jul	2023		
+a 12% reduction in average transit delays. 
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-						
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
+•  Maintained and updated safety stock parameters for 150+ window and door component SKUs based on seasonal demand 
+
+patterns and supplier variability. 
+
+•  Prepared cost-to-serve analysis reports comparing 4 regional distribution routes, resulting in a logistics cost saving of $180K 
+
+annually after route consolidation. 
+
+Account Service Analyst, Honeywell | India 
+      Oct 2021 – Aug 2023 
+•  Monitored  supplier  performance  KPIs  including  on-time  delivery,  defect  rates,  and  lead  time  compliance  across  20+ 
+
+industrial automation component vendors. 
+
+•  Generated  monthly  operational  metrics  reports  in  Excel  using  pivot  tables  and  Power  Query,  providing  visibility  to  a  3-
+
+person planning team for procurement decisions. 
+
+•  Processed and validated 300+ purchase orders monthly, achieving a 99.1% order accuracy rate over an 18-month period. 
+•  Worked with warehouse operations and logistics teams to resolve 60+ order discrepancies per quarter, cutting resolution 
+
+turnaround time from 5 days to 2 days. 
+
+•  Assisted  in  transitioning  manual  order  tracking  to  a  semi-automated  reporting  workflow  using  Excel  macros,  saving 
+
+approximately 8 hours of manual effort per week. 
+
+       Jan 2021 – Sep 2021 
+Logistics Assistant, Syngenta | India 
+•  Coordinated inbound and outbound shipments for agrochemical products across 5 regional distribution points, ensuring 
+
+95%+ on-time dispatch compliance. 
+
+•  Maintained shipment logs and carrier performance records for 10+ third-party logistics providers, flagging recurring delay 
+
+• 
+
+patterns that reduced late deliveries by 18%. 
+Supported the logistics team in processing customs and compliance documentation for cross-border shipments, ensuring 
+zero regulatory holds over the 9-month tenure. 
+
+•  Tracked  inbound  purchase  orders  and  coordinated  with  vendors  on  delivery  schedules,  reducing  average  inbound 
+
+processing time by 2 days. 
+
+EDUCATION 
+University of Dayton | Dayton, Ohio  
+MS in Business Analytics  
+
+Savitribai Phule Pune University | Pune  
+BS in Computer Engineering 
+
+      Sep 2023 – Jun 2025 
+
+       Aug 2019 – Jul 2023  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
 
